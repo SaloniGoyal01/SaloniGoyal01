@@ -1,3 +1,5 @@
+![logo](https://sdmntprwestcentralus.oaiusercontent.com/files/00000000-2074-61fb-bae9-9d10cb2d31ba/raw?se=2025-06-26T09%3A18%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=ec515ad7-fbde-5181-989b-0e07794077ed&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-25T13%3A23%3A20Z&ske=2025-06-26T13%3A23%3A20Z&sks=b&skv=2024-08-04&sig=Dlyy0TcbEYWxCbGx96tSx9llZ2bkTznZF5YsnAyKsig%3D)
+
 <h1 align="center">Hi 👋, I'm Saloni Goyal</h1>
 <h3 align="center">Frontend Developer | UI/UX Developer | Data Analyst</h3>
 
